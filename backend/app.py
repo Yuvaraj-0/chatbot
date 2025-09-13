@@ -6,7 +6,7 @@ app = Flask(__name__)
 CORS(app)
 
 
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "
 MODEL_ID = "openai/gpt-oss-120b"
 
 def chatbot_response(prompt):
